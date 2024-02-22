@@ -1,2 +1,2 @@
 # spring-boot-with-react-integrated
-spring boot with react integrated. build maven.
+spring boot with react integrated. build util is maven.
